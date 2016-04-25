@@ -1,1 +1,2 @@
-﻿I am a test.txt
+﻿I am a test.txt.
+Now I can goto remote.
